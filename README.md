@@ -1,1 +1,1 @@
-# README
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?cristi11191=anuraghazra&layout=compact)
